@@ -1,8 +1,8 @@
-Trường Đại học Trà Vinh
-KHOA KỸ THUẬT VÀ CÔNG NGHỆ
+Trường Đại học Trà Vinh,
+KHOA KỸ THUẬT VÀ CÔNG NGHỆ,
 BỘ MÔN CÔNG NGHỆ THÔNG TIN
 
-HỌC KỲ I, NĂM HỌC 2024-2025
+HỌC KỲ I, NĂM HỌC 2024-2025,
 Viết chương trình mô phỏng giải thuật Floyd Warshall
 
 Giảng viên hướng dẫn:
